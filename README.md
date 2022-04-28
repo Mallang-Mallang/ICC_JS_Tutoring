@@ -25,3 +25,11 @@
 ## 노션
 
 [JS 튜터링 노션](https://solstice-card-02e.notion.site/JS-bae59e61d7fe42d8b3e336b01f3f8eaa)
+
+<br />
+
+## Commit 메시지 규칙
+
+`[Github ID ] commit message`
+
+모든 커밋 메세지는 명령문 (현재시제) 를 사용하여 작성합니다. 모든 커밋 메세지 앞에는 `[Github ID]` 를 작성합니다.
