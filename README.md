@@ -30,6 +30,8 @@
 
 ## Commit 메시지 규칙
 
-`[Github ID ] commit message`
+```
+[Github ID ] commit message
+```
 
 모든 커밋 메세지는 명령문 (현재시제) 를 사용하여 작성합니다. 모든 커밋 메세지 앞에는 `[Github ID]` 를 작성합니다.
