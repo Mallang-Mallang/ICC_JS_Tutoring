@@ -1,4 +1,4 @@
-# 대림대학교 ICC 동아리 JvaScript 튜터링
+# 대림대학교 ICC 동아리 JavaScript 튜터링
 
 대림대학교 JavaScript기초 문법 튜터링
 
